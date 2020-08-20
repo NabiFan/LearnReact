@@ -2,4 +2,4 @@
 learn ReactJS
 
 # Start
-`npx run start`
+`npx run open`
